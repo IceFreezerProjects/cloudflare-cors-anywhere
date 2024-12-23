@@ -1,4 +1,5 @@
 /*
+
 CORS Anywhere as a Cloudflare Worker!
 (c) 2019 by Zibri (www.zibri.org)
 email: zibri AT zibri DOT org
